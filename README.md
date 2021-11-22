@@ -13,7 +13,7 @@ This deliverable built upon deliverable 1 to add code to clean and transform the
 
 *My Output*
 
-![My_output](Images/my_delivarable2_output.PNG)
+![My_output](Images/my_deliverable2_output.PNG)
 
 ## Deliverable 3
 Deliverable 3 built on the code that was created in deliverable 2 to clean the kaggle_metadata. Once cleaned, the kaggle_metadata was merged with wiki_movies_df data. At this step we also used the duplicate data columns to create a more useful and complete data for columns via filling in missing data from one column to the other. The merged dataset was then combined with a cleaned version of the ratings data to a final merged dataset movies_with_ratings_df. with the completion of deliverable 3, my output matched the module challenge documents.
